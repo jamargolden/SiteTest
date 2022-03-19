@@ -1,3 +1,6 @@
+
+![DR Logo](https://user-images.githubusercontent.com/59937732/159141129-91abb0e2-05ce-4c01-9bf7-eedc4080d8ac.png)
+
 **Description:**
 
 This is a project based around a local trucking company called D&R Freight LLP where I took it upon myself to recreate the website while adding my own creative touch and improvements to help modernize the website and make it more visually appealing. The overall structure of the website is still very similar to the original with but now includes various animations, motion graphics, and videos that help to improve the overall message and feel of this business’s website. All animations were created by me using applications from the Adobe Creative Cloud Suite.
